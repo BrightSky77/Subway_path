@@ -20,5 +20,5 @@
 
 ## Method 2 did save the computational time alot but the accuracy wasn't that good as Method 1. By comparing Method 1 and Method 2 we can find the feature of search strategy that if you take one, you have to get rid of one. Balancing the computational time and the accuracy is the hard problem and I believe IDS or combining the Method 1 and Method 2 would solve this problem. 
 
-#### **Implementing Method 1 :  optimal(start_node, end_node, P, L). **        P prints the path of the result and L means the (actual distance) + (transfer cost)
-#### **Implementing Method 2 : ride(start_node, end_node). **                  It will print out the path and the total travel time. 
+#### **Implementing Method 1 :  optimal(start_node, end_node, P, L).         P prints the path of the result and L means the (actual distance) + (transfer cost)
+#### **Implementing Method 2 : ride(start_node, end_node).                  It will print out the path and the total travel time. 

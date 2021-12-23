@@ -8,8 +8,7 @@
 ### I put the additional cost in the transfer station which is the average distance of adjacent station.(2km)
 
 
-## Method 1 calculates all the possible routes so if the domain increases, then the computing time increases exponentially. To reduce the computing time, I had to come up with new
-## algorithm that reduces the search space. First I thought of IDS, but at that time i didn't have much time and it takes a while to implement IDS code in prolog especially with  this kind of complex path problem. So I had to thought of new idea that is simple then IDS and consumes less computational time then Method 1.
+## Method 1 calculates all the possible routes so if the domain increases, then the computing time increases exponentially. To reduce the computing time, I had to come up with new algorithm that reduces the search space. First I thought of IDS, but at that time i didn't have much time and it takes a while to implement IDS code in prolog especially with  this kind of complex path problem. So I had to thought of new idea that is simple then IDS and consumes less computational time then Method 1.
 
 
 ## **Method 2** 
